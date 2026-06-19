@@ -10,7 +10,7 @@
 
 ### 🙋‍♂️ Sobre mim
 
-- 🎓 Sou estudante de **Sistema de Informação**
+- 🎓 Sou estudante de **Sistema de Informação** (Unemat MT)
 - 🌱 Atualmente estudando desenvolvimento web e back-end
 - 💬 Sempre aberto a aprender e trocar conhecimento
 - 📫 Me chama no Instagram pra conversar!
