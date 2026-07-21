@@ -25,19 +25,6 @@
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eduardo-R-Melo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-R-Melo&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-R-Melo&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
----
-
 ### 🌐 Onde me encontrar
 
 <p align="center">
@@ -54,10 +41,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   -->
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eduardo-R-Melo&label=Visitas+no+perfil&color=58A6FF&style=flat" alt="Contador de visitas" />
 </p>
